@@ -16,7 +16,7 @@ function DashboardHeader() {
             
              <Image src={'/logo.svg'} alt='logo' width={30} height={30}/>
             
-                <h2 className="font-bold text-xl">Easy Study</h2>
+                <h2 className="font-bold text-xl">Mintopic</h2>
           </div>
           </Link>  }
 
